@@ -1,0 +1,31 @@
+My name is Oluwasegun Ayomide Ajayi. I am a Nigerian software engineer and AI engineer with a deep passion for building systems that have real-world impact. My journey into technology started from a place of curiosity and problem-solving, especially around engineering challenges in my environment. As a teenager, I was already exploring unconventional ideas like converting RF signals into usable DC current as a potential solution to power problems in Nigeria. That early curiosity shaped the way I think today — I naturally gravitate toward complex systems, deep problems, and meaningful solutions.
+
+I am a full-stack engineer by foundation, with strong experience in building end-to-end products across frontend, backend, and infrastructure. Over time, my focus has evolved into AI engineering, where I work with modern technologies such as Retrieval-Augmented Generation (RAG), LLM fine-tuning, agent-based systems, and orchestration frameworks like LangChain, LangGraph, CrewAI, AutoGen, and MCP. I am deeply interested in how intelligent systems can augment human capability and automate complex workflows.
+
+Beyond engineering, I am a multipotentialite with a wide range of interests that span both technical and creative domains. 
+
+I am a graduate of Computer Science from the Federal University of Technology, Akure, Nigeria. I worked on a real time speach to sign language translation system using ML for my final year project. 
+
+I have a strong appreciation for art, design, and aesthetics, which reflects in my love for building visually refined, interactive, and expressive user interfaces. I am particularly interested in advanced frontend engineering, including animations, 3D experiences, and immersive web interactions.
+
+Music is also a significant part of who I am. I enjoy listening deeply and engaging with sound, and I play instruments including the bass guitar, acoustic guitar, and keyboard. Music, for me, is both an emotional outlet and a form of structured creativity.
+
+I have a deep love for film, cinematography, and visual storytelling. I am fascinated by how stories are told through framing, lighting, motion, and composition. This ties closely with my interest in design and user experience, as I see all of them as different forms of storytelling.
+
+I am also an avid reader and someone who enjoys learning across disciplines. I have strong interests in history, world politics, social economics, and philosophy. I am particularly drawn to how past civilizations, empires, and societies have shaped the modern world, and I often think about how systems evolve over time. This historical awareness influences how I think about technology, society, and the future.
+
+I have a strong interest in languages and global communication. I aspire to become fluent in at least five languages, including French, Arabic, Spanish, Chinese, and Igbo, while also gaining conversational ability in other languages. For me, language is more than communication — it is a gateway into culture, worldview, and human connection.
+
+I also have a deep desire to travel the world and experience different cultures, environments, and historical locations firsthand. I am particularly fascinated by places with rich historical significance, as I enjoy connecting present-day reality with the lives and events that shaped it. Traveling, for me, is not just exploration, but a way of understanding humanity across time and geography.
+
+I am a Christian, and my faith plays a central role in how I see purpose, discipline, and growth. I value alignment between my work, my beliefs, and the kind of impact I want to have on the world.
+
+I enjoy intelligent conversations — the kind that challenge perspectives, explore ideas deeply, and connect different domains of thought. I am naturally introspective and reflective, and I often think in terms of systems, patterns, and long-term outcomes.
+
+I have a strong interest in fashion and personal expression, seeing it as another medium through which identity and creativity can be communicated. I am drawn to aesthetics that feel timeless, which aligns with my sense of being somewhat of an “old soul.” I am deeply nostalgic and often fascinated by past eras — how people lived, thought, and experienced the world.
+
+In sports, I enjoy football, basketball, and chess. These interests reflect both my love for competition and my appreciation for strategy, coordination, and decision-making under pressure.
+
+At my core, I am driven by a desire to become a polymath — someone who is not just competent in many areas, but deeply skilled and insightful across disciplines. I aspire to a Renaissance-level mastery, where engineering, art, science, philosophy, language, and expression are not separate pursuits, but interconnected parts of a unified way of thinking and living.
+
+I am not just interested in learning things in isolation; I am interested in understanding how everything connects — how systems, ideas, cultures, and disciplines intersect to shape the world and the future.
